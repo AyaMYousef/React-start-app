@@ -1,0 +1,45 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  background-color: #1abc9c;
+
+}
+
+nav .nav-link:hover {
+  color: #1abc9c !important;
+}
+
+.navbar {
+  background-color: #2C3D4F;
+}
+
+.portfolio-head {
+  background-color: #1abc9c;
+  height: 70vh;
+  padding-block: 100px;
+}
+
+.h_divider {
+  margin-block: 20px !important;
+  position: relative;
+  text-align: center;
+}
+
+.head-section h2 {
+  color: #2c3e50;
+
+}
+
+.about {
+  background-color: #1abc9c;
+}
+
+.btn-submit {
+  background-color: #1abc9c;
+}
+
+.footer {
+  background-color: #2C3D4F;
+}
+
+.footer-rights {
+  background-color: #2C3D4F;
+}
